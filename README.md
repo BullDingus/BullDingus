@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BullDingus
 - 👀 I’m interested in ... python and trying to hack into the pentagon
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... n othing 
+- 💞️ I’m looking to collaborate on ... taking over the world
 - 📫 How to reach me ...2813308004
 
 <!---

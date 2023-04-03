@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BullDingus
+- 👋 Hi, I’m 
 - 👀 I’m interested in ... python and trying to hack into the pentagon
 - 🌱 I’m currently learning ... n othing 
 - 💞️ I’m looking to collaborate on ... taking over the world
